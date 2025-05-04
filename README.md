@@ -19,18 +19,6 @@ I'm a young professional with a passion for IT and network engineering, currentl
 
 My approach to work combines ambition and discipline, with a constant goal of pushing my limits. I value transparency and trust as the foundation for building solid and lasting relationships.
 
-## 🔍 Professional Experience
-
-- 🚀 **Founder at NOVASEC** (Aug 2024 - Present)
-  - IT consulting, network design and maintenance
-  - Technical assistance and hardware interventions
-  - Web development and digital services
-  - Security system design
-
-- 💼 **Helpdesk & IT Specialist at Proxima Lab srl** (Mar 2025 - May 2025)
-  - Technical support and ticket management
-  - Remote troubleshooting for hardware and software issues
-
 ## 🛠️ Skills & Technologies
 
 <div align="center">
@@ -70,31 +58,7 @@ My approach to work combines ambition and discipline, with a constant goal of pu
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
-
-## 📚 Education
-
-- 🎓 **Bachelor's Degree in Computer Engineering**
-  - University of Bergamo (Sep 2022 - Present)
-
-- 📜 **Technical Diploma - Telecommunications**
-  - ITI G. Marconi (Sep 2017 - Jun 2022)
-  - Final Grade: 100/100
-
-- 🌐 **CISCO Networking Academy Certifications**
-  - CCNAv7: Introduction to Networks
-  - IT Essentials
-
-## 🏎️ Passions Beyond Tech
-
-<div align="center">
-  
-| 🚗 **Vintage Cars** | 📷 **Photography** | 🎯 **Event Management** |
-|--------------------|--------------------|--------------------------|
-| *Enthusiast of 80s, 90s, and 2000s cars with pure driving experience* | *Portrait, macro, nature, and street photography* | *Leadership and organization skills honed through event coordination* |
-
 </div>
-
-> *"Just as networking requires understanding complex systems where every component must work in perfect harmony, my passion for vintage cars follows the same principle - appreciating mechanisms where technical precision creates an unfiltered experience."*
 
 ## 📫 Connect With Me
 
