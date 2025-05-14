@@ -63,7 +63,7 @@ My approach to work combines ambition and discipline, with a constant goal of pu
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://davidebonsembiante.eu" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-davidebonsembiante.eu-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://davidebonsembiante.eu" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-davidebonsembiante.eu-darkgreen?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/davide-bonsembiante/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@davide--bonsembiante-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://www.instagram.com/bns.davide_001/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@bns.davide__001-purple?style=flat-square&logo=instagram"></a>
   <a href="mailto:davide@novasec.it" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-davide@novasec.it-red?style=flat-square&logo=gmail"></a>
