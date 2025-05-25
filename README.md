@@ -15,7 +15,7 @@
 
 > *"Il grande vantaggio del giocare col fuoco è che non ci si scotta mai. Sono solo coloro che non sanno giocarci che si bruciano del tutto."* — Oscar Wilde
 
-I'm a young professional with a passion for IT and network engineering, currently completing my Bachelor's Degree in Computer Engineering at the University of Bergamo. I'm also running my own business, [NOVASEC](https://novasec.it), where I put my technical knowledge into practice in the real world.
+I am a Computer Engineering student at the University of Bergamo, with a strong passion for IT and network engineering. I am currently completing my Bachelor's degree, focusing on both the theoretical and practical aspects of networking and computer technologies.
 
 My approach to work combines ambition and discipline, with a constant goal of pushing my limits. I value transparency and trust as the foundation for building solid and lasting relationships.
 
@@ -66,7 +66,7 @@ My approach to work combines ambition and discipline, with a constant goal of pu
   <a href="https://davidebonsembiante.eu" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-davidebonsembiante.eu-darkgreen?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/davide-bonsembiante/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@davide--bonsembiante-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://www.instagram.com/bns.davide_001/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@bns.davide__001-purple?style=flat-square&logo=instagram"></a>
-  <a href="mailto:davide@novasec.it" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-davide@novasec.it-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:davide@novasec.it" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-bns.davide@gmail.com-red?style=flat-square&logo=gmail"></a>
 </div>
 
 <!--
