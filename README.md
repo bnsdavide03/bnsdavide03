@@ -42,7 +42,7 @@ My approach to work combines ambition and discipline, with a constant goal of pu
 ### Systems & Tools  
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows-server)
-[![Ubuntu Server](https://img.shields.io/badge/-Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/server)
+[![Windows Client](https://img.shields.io/badge/-Windows_Client-00ADEF?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![VMware](https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 
