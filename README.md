@@ -80,5 +80,3 @@ My approach to work combines ambition and discipline, with a constant goal of pu
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davide@novasec.it)
 
 </div>
-
----
