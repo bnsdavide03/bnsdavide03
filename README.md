@@ -15,10 +15,8 @@
 
 ## 🧠 About Me
 
-> *"Il grande vantaggio del giocare col fuoco è che non ci si scotta mai. Sono solo coloro che non sanno giocarci che si bruciano del tutto."* — Oscar Wilde
-
-I am a Computer Engineering student at the University of Bergamo, currently completing my Bachelor's degree.  
-Throughout my academic career, I have mainly focused on **software development** and **system administrator**, but I also developed a strong interest in **Cyber-Security** and **Data Protection**.
+I am a Computer Engineering student at the University of Bergamo. I have **almost completed my Bachelor's degree** and have started **my Master's degree this year**.
+Throughout my academic career, I have mainly focused on **software development** and **system administration**, but I have also developed a strong interest in **Cyber-Security** and **Data Protection**.
 
 My approach to work combines ambition and discipline, with a constant goal of pushing my limits. I believe that **transparency and trust** are the foundation for building strong and lasting relationships.
 
