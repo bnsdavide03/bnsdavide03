@@ -8,7 +8,7 @@
   
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bonsembiante&show_icons=true&theme=transparent&hide_border=true" alt="Davide's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonsembiante&layout=compact&theme=transparent&hide_border=true" /> |
 | ------------- | ------------- |
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bonsembiante&theme=transparent&hide_border=true" alt="GitHub Streak Stats">
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=bonsembiante&theme=transparent&hide_border=true" alt="GitHub Streak Stats">
 </div>
 
 ---
@@ -67,14 +67,10 @@ My approach to work combines ambition and discipline, with a constant goal of pu
 
 ---
 
-## 📫 Connect With Me  
-
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐%20Website-davidebonsembiante.eu-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://davidebonsembiante.eu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Davide%20Bonsembiante-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-bonsembiante/)
-[![Instagram](https://img.shields.io/badge/Instagram-@bns.davide__001-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bns.davide_001/)
-[![Email](https://img.shields.io/badge/Email-davide@novasec.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davide@novasec.it)
+| [![Website](https://img.shields.io/badge/🌐%20Website-davidebonsembiante.eu-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://davidebonsembiante.eu) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davide%20Bonsembiante-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-bonsembiante/) | [![Instagram](https://img.shields.io/badge/Instagram-@bns.davide__001-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bns.davide_001/) | [![Email](https://img.shields.io/badge/Email-davide@novasec.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davide@novasec.it) |
+|---|---|---|---|
 
 </div>
 
