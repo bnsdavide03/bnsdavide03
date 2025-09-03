@@ -15,9 +15,12 @@
 
 > *"Il grande vantaggio del giocare col fuoco è che non ci si scotta mai. Sono solo coloro che non sanno giocarci che si bruciano del tutto."* — Oscar Wilde
 
-I am a Computer Engineering student at the University of Bergamo, with a strong passion for IT and network engineering. I am currently completing my Bachelor's degree, focusing on both the theoretical and practical aspects of networking and computer technologies.
+I am a Computer Engineering student at the University of Bergamo, currently completing my Bachelor's degree.  
+Throughout my academic career, I have mainly focused on **software development**, but I also developed a strong interest in **IT security** and system administration.  
 
-My approach to work combines ambition and discipline, with a constant goal of pushing my limits. I value transparency and trust as the foundation for building solid and lasting relationships.
+My approach to work combines ambition and discipline, with a constant goal of pushing my limits. I believe that **transparency and trust** are the foundation for building strong and lasting relationships.
+
+---
 
 ## 🛠️ Skills & Technologies
 
@@ -32,6 +35,7 @@ My approach to work combines ambition and discipline, with a constant goal of pu
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly_MIPS-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Systems & Tools
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -58,17 +62,18 @@ My approach to work combines ambition and discipline, with a constant goal of pu
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
-</div>
 
-## 📫 Connect With Me
+---
+
+## 📫 Connect With Me  
 
 <div align="center">
-  <a href="https://davidebonsembiante.eu" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-davidebonsembiante.eu-darkgreen?style=flat-square&logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/davide-bonsembiante/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@davide--bonsembiante-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://www.instagram.com/bns.davide_001/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@bns.davide__001-purple?style=flat-square&logo=instagram"></a>
-  <a href="mailto:davide@novasec.it" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-bns.davide@gmail.com-red?style=flat-square&logo=gmail"></a>
+
+[![Website](https://img.shields.io/badge/🌐%20Website-davidebonsembiante.eu-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://davidebonsembiante.eu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Davide%20Bonsembiante-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-bonsembiante/)  
+[![Instagram](https://img.shields.io/badge/Instagram-@bns.davide__001-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bns.davide_001/)  
+[![Email](https://img.shields.io/badge/Email-davide@novasec.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davide@novasec.it)  
+
 </div>
 
-<!--
-**bonsembiante/bonsembiante** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
