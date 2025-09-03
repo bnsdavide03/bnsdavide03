@@ -77,6 +77,6 @@ My approach to work combines ambition and discipline, with a constant goal of pu
 &nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bns.davide_001/)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davide@novasec.it)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bns.davide@gmail.com)
 
 </div>
