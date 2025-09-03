@@ -1,5 +1,7 @@
 # Hi there, I'm Davide Bonsembiante 👋
 
+<br>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=IT+Specialist;Computer+Engineering+Student" alt="Typing SVG" />
 </div>
