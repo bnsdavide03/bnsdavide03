@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-ne8mtgall-bnsdavide.vercel.app/api?username=bnsdavide03&show_icons=true&theme=transparent&hide_border=true" alt="" />
-  <img src="https://github-readme-stats-ne8mtgall-bnsdavide.vercel.app/api/top-langs/?username=bnsdavide03&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats-phi-nine-vkra8dx2ca.vercel.app/api?username=bnsdavide03&show_icons=true&theme=transparent&hide_border=true&v=3" alt="" />
+  <img src="https://github-readme-stats-phi-nine-vkra8dx2ca.vercel.app/api/top-langs/?username=bnsdavide03&layout=compact&theme=transparent&hide_border=true&v=3" />
   <br>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=bnsdavide03&theme=transparent&hide_border=true" alt="GitHub Streak Stats">
 </div>
